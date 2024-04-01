@@ -1,0 +1,4 @@
+- _**Hello**_
+- The project name is byb_project
+- The importance of this project is to learn how to create repositorys, commit them to Git hub
+- It also serves as a mean in learn how to push local repository to the remote repository
